@@ -1,2 +1,2 @@
-# hello-wprld
+# hello-world
 first test repository
