@@ -1,3 +1,3 @@
-# hello-wprld
-first test repository
+# hello-world
 local branch
+first test repository
